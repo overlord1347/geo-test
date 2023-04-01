@@ -1,0 +1,3 @@
+[submodule "geo-front"]
+	path = geo-front
+	url = git@github.com:overlord1347/geo-test.git
